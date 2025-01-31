@@ -1,0 +1,2 @@
+# VirtualAssistant
+ This Virtual Assistant is a web-based application designed to assist users with various tasks through an intuitive interface. Built using HTML, CSS, and JavaScript, this assistant leverages the power of client-side scripting to provide a seamless and interactive user experience. Users can engage with the assistant to perform tasks such as answering questions, setting reminders, and retrieving information, all through a simple chat interface.
